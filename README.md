@@ -10,4 +10,3 @@ Info Info Info
 
   ```three back ticks are a code block```
 
-  THIS LINE IS FOR THE MAIN BRANCH BECAUSE I CANNOT UPLOAD AN IMAGE
