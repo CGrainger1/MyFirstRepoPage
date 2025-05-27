@@ -10,7 +10,6 @@ Info Info Info
 ```three back ticks are a code block
 print("hello")
 ```
-![Picture](Coding.webp)
 
   
 
