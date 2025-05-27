@@ -7,5 +7,7 @@ Info Info Info
 - Point 2
 - Point 3
 
+print(hello)
+
   ```three back ticks are a code block```
 
