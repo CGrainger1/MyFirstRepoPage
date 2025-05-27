@@ -1,6 +1,7 @@
 ## This is my project
 Info Info Info
 
+I WILL CREATE A MERGE CONFLUCHT
 ## This is a subheading
 
 - Point 1
