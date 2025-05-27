@@ -9,5 +9,7 @@ Info Info Info
 
 print(hello)
 
+![Picture](pic)
+
   ```three back ticks are a code block```
 
