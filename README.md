@@ -2,15 +2,15 @@
 Info Info Info
 
 
-I WILL CREATE ANOTHER MERGE CONFLICT NOW
-
-I WILL CREATE A MERGE CONFLICT
+I HAVE REMOVED THINGS AND THIS IS A NEW BRANCH ON 30TH MAY
 
 ## This is a subheading
 
 - Point 1
 - Point 2
-- Point 3
+- Point 745
+- Hello
+NEW EDIT
 
 ```three back ticks are a code block
 print("hello")
